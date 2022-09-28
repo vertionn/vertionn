@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm vertionn</h1>
 
-<!--
-**vertionn/vertionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```def vertionn():
+  ```
 
-Here are some ideas to get you started:
+<h1 align="center">Languages</h1>
+<p align="center">
+  <a href="https://github.com/vertionn">
+    <img src="https://skillicons.dev/icons?i=py,go" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Learning</h1>
+<p align="center">
+  <a href="https://github.com/vertionn">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,java,js" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vertionn">
+    <img src="https://github-readme-stats.vercel.app/api?username=vertionn&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  </a>
+</p>
