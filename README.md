@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm vertionn</h1>
 
-```def vertionn():
-  ```
+```
+def vertionn():
+  username = "vertionn"
+  contact = {
+    "Discord" : "vertion#1796",
+    "Telegram" : "wooser"
+  }
+  location = "United Kingdom"
+  age = 16
+
+  return username,contact,location,age
+
+def main():
+  username,contact,location,age = vertionn()
+
+  print(f"Hi i'm {username} currently {age} years old located in the {location} you can contact me on Discord {contact['Discord']} or on Telegram {contact['Telegram']}")
+main()
+```
 
 <h1 align="center">Languages</h1>
 <p align="center">
