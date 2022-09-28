@@ -15,7 +15,12 @@ def vertionn():
 def main():
   username,contact,location,age = vertionn()
 
-  print(f"Hi i'm {username} currently {age} years old located in the {location} you can contact me on Discord {contact['Discord']} or on Telegram {contact['Telegram']}")
+  print(username)
+  print(contact['Discord'])
+  print(contact['Telegram'])
+  print(location)
+  print(age)
+  
 main()
 ```
 
