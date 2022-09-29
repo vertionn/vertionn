@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm vertionn</h1>
 
+<!-- [![lol](https://lanyard.cnrad.dev/api/1024780566773628979)](https://discord.com/users/1024780566773628979) -->
+
 ```golang
 func vertionn() (Username string, Discord string, Telegram string, Location string, Age int) {
 	Username = "vertionn"
