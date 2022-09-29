@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vertionn</h1>
 
-<!-- [![lol](https://lanyard.cnrad.dev/api/1024780566773628979)](https://discord.com/users/1024780566773628979) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/655185610725785667?theme=dark&animated=false&hideDiscrim=false&idleMessage=Probably%20Coding)](https://discord.com/users/655185610725785667)
 
 ```golang
 func vertionn() (Username string, Discord string, Telegram string, Location string, Age int) {
