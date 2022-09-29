@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm vertionn</h1>
 
-```
-def vertionn():
-  username = "vertionn"
-  contact = {
-    "Discord" : "vertion#1796",
-    "Telegram" : "wooser"
-  }
-  location = "United Kingdom"
-  age = 16
+```golang
+func vertionn() (Username string, Discord string, Telegram string, Location string, Age int) {
+	Username = "vertionn"
+	Discord = "vertion#1796"
+	Telegram = "wooser"
+	Location = "United Kingdom"
+	Age = 16
 
-  return username,contact,location,age
+	return Username, Discord, Telegram, Location, Age
+}
 
-def main():
-  username,contact,location,age = vertionn()
+func main() {
+	Username, Discord, Telegram, Location, Age := vertionn()
+	fmt.Printf("Username: %v\n", Username)
+	fmt.Printf("Discord: %v\n", Discord)
+	fmt.Printf("Telegram: %v\n", Telegram)
+	fmt.Printf("Location: %v\n", Location)
+	fmt.Printf("Age: %v\n", Age)
+}
 
-  print(username)
-  print(contact['Discord'])
-  print(contact['Telegram'])
-  print(location)
-  print(age)
-  
-main()
 ```
 
 <h1 align="center">Languages</h1>
