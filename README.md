@@ -7,6 +7,10 @@
 </p>
 
 ```golang
+package main
+
+import "fmt"
+
 func vertionn() (Username string, Discord string, Telegram string, Location string, Age int) {
 	Username = "vertionn"
 	Discord = "vertion#1796"
