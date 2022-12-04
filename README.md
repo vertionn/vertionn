@@ -41,8 +41,8 @@ func main() {
 
 <h1 align="center">Learning</h1>
 <p align="center">
-  <a href="https://github.com/vertionn">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust" />
+  <a href="https://github.com/vertionn?tab=repositories&language=">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,java" />
   </a>
 </p>
 
