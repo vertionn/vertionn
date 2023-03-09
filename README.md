@@ -4,13 +4,14 @@
 My name is Nathan, and I'm a backend developer based in Scotland. I've always been fascinated by how computers work, and when I was younger, I became interested in how user interfaces store information. This led me to explore the web and learn more about backend development, which quickly became my passion. Since then, I've honed my skills in areas such as database design, API development, and server-side scripting, and I've worked on a variety of projects, from small-scale web applications to large-scale enterprise systems.
 
 
-<h1 align="left">My skills</h1>
+<h1 align="left">My Skills & Languages</h1>
 <p align="left">
   <a href="https://github.com/vertionn?tab=repositories&q=&type=&language=go">
     <img src="https://skillicons.dev/icons?i=go"/>
   </a>
-  
-  I've spent the past two year honing my skills in Go, a versatile and efficient programming language. I've completed several projects, including a web app that 	integrates with a PostgreSQL database. Along the way, I've become more comfortable with Go's syntax and best practices for concurrency, error handling, and performance optimization. I enjoy the challenge of writing clean and maintainable code in Go, and I'm excited to continue exploring its capabilities and contributing to the open-source community.
+  <a href="https://github.com/vertionn?tab=repositories&q=&type=&language=py">
+    <img src="https://skillicons.dev/icons?i=py"/>
+  </a>
 </p>
 
 <h1 align="left">My Projects</h1>
