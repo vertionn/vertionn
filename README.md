@@ -20,6 +20,9 @@ I've spent countless hours experimenting with Golang and its unique features, an
   <img src="https://skillicons.dev/icons?i=graphql,postgres,git"/>
 </p>
 
+<a href="">
+  <img src="https://visitcount.itsvg.in/api?id=vertionn&icon=5&color=12" />
+</a>
 <!-- <h1 align="left">My Projects</h1>
 Working Progress
 <p align="left"><a href="https://github.com/vertionn?tab=repositories&language=">Project Name</a> - description
