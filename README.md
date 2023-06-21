@@ -16,20 +16,18 @@ I've spent countless hours experimenting with Golang and its unique features, an
 </p>
 
 <h1 align="left">Learning</h1>
+
+## Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=graphql,postgres,git"/>
+  <img src="https://skillicons.dev/icons?i=graphql,git,docker" alt="Tools" />
 </p>
 
-<a href="">
-  <img src="https://visitcount.itsvg.in/api?id=vertionn&icon=5&color=12" />
-</a>
-<!-- <h1 align="left">My Projects</h1>
-Working Progress
-<p align="left"><a href="https://github.com/vertionn?tab=repositories&language=">Project Name</a> - description
+## Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=svelte" alt="Frameworks" />
 </p>
 
- <p align="center">
-   <a href="https://github.com/vertionn">
-    <img src="https://github-readme-stats.vercel.app/api?username=vertionn&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  </a> 
-</p> -->
+## Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" alt="Database" />
+</p>
