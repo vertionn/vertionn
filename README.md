@@ -1,9 +1,7 @@
 <h1 align="left">Hello there! 👋</h1>
 
 <h1 align="left">about me</h1>
-I'm Nathan and I have a great passion for building APIs in Golang. While I currently build Golang APIs just for fun, I thoroughly enjoy doing it.
-
-I've spent countless hours experimenting with Golang and its unique features, and I'm constantly learning and expanding my skillset to create better and more efficient APIs. I'm particularly interested in building APIs that are scalable and reliable, ensuring that they can power web and mobile applications without any issues.
+I'm Nathan, a Golang enthusiast who has primarily honed my skills through self-teaching. I'm passionate about crafting elegant backend solutions, specializing in building Golang APIs. My playground revolves around diving deep into the intricacies of backend development, where I thrive on creating seamless experiences. By skillfully blending the complexities of code with powerful functionality, I consistently deliver exceptional results.
 
 <h1 align="left">My Skills & Languages</h1>
 <p align="left">
@@ -22,12 +20,12 @@ I've spent countless hours experimenting with Golang and its unique features, an
   <img src="https://skillicons.dev/icons?i=graphql,git,docker" alt="Tools" />
 </p>
 
-## Frameworks
+<!-- ## Frameworks ( on the side )
 <p align="left">
   <img src="https://skillicons.dev/icons?i=svelte" alt="Frameworks" />
-</p>
+</p> -->
 
 ## Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="Database" />
 </p>
