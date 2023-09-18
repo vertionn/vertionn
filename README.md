@@ -1,8 +1,7 @@
 <h1 align="left">Hello there! 👋</h1>
 
 <h1 align="left">about me</h1>
-I'm Nathan, a Golang enthusiast who has primarily honed my skills through self-teaching. I'm passionate about crafting elegant backend solutions, specializing in building Golang APIs. My playground revolves around diving deep into the intricacies of backend development, where I thrive on creating seamless experiences. By skillfully blending the complexities of code with powerful functionality, I consistently deliver exceptional results.
-
+I'm Nathan, a Golang enthusiast who has primarily honed my skills through self-teaching. I'm passionate about crafting elegant backend solutions, specializing in building Golang APIs.
 <h1 align="left">My Skills & Languages</h1>
 <p align="left">
   <a href="https://github.com/vertionn?tab=repositories&q=&type=&language=go">
