@@ -32,4 +32,4 @@ I'm Nathan, a Golang enthusiast who has primarily honed my skills through self-t
 3. **__Social-Media-API - Journey from Basic to Advanced__**
    - **Description:** Embarking on a thrilling adventure to build a Social Media API in Go! Starting with the basics, enabling users to make posts and customize profiles. As we progress, expect advanced features like real-time updates, enhanced security, and seamless scalability. Utilizing PostgreSQL for robust data storage and Redis for efficient email verification.
    - **Status:** Not Started
-   - **Link:** [Project Social-Media-API](https://github.com/vertionn/Social-Media-API)
+   - **Link:** [Social-Media-API](https://github.com/vertionn/Social-Media-API)
