@@ -21,12 +21,12 @@ I'm Nathan, a Golang enthusiast who has primarily honed my skills through self-t
 
 1. **Project Url-Shortener**
    - **Description:** Building a basic URL shortener in Go with Redis to store the data, with plans to upgrade over time.
-   - **Status:** Not Started
+   - **Status:** Started
    - **Link:** [Url-Shortener](https://github.com/vertionn/Url-Shortener)
 
 2. **__Project Simple-Chat-API__**
    - **Description:** Creating a straightforward chat API in Golang using WebSocket for real-time messaging. This project is designed for foundational learning and understanding the basics of building a real-time communication system.
-   - **Status:** Not Started
+   - **Status:** Not Started / Planing it out
    - **Link:** [Simple-Chat-API](https://github.com/vertionn/Simple-Chat-API)
 
 3. **__Social-Media-API - Journey from Basic to Advanced__**
