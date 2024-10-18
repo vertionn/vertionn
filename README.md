@@ -13,7 +13,7 @@ I'm Nathan, a Golang enthusiast who has primarily honed my skills through self-t
 ## Learning: Tools | Database
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,docker,postgres,mongodb,redis"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,postgres,redis,htmx"/>
   </a>
 </p>
 
